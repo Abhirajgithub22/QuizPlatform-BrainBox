@@ -39,5 +39,5 @@ Run "npm install" in the terminal to install all the packages needed for this pr
 
 ## License
 ```
-Copyright (c) 2022 Rekoontech / AlmaBetter
+Copyright (c) 2022 Rekoontech / BrainBox
 
