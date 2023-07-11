@@ -26,15 +26,9 @@ Run "npm install" in the terminal to install all the packages needed for this pr
 * Material UI
 * React-Redux
 
-## 📸 Screenshots of the application
+##Youtube link
 
-||||
-|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-
-![Screenshot (49)](https://user-images.githubusercontent.com/81317587/206523424-4528f02c-1087-4085-b953-83bea56865ad.png)
-![Screenshot (48)](https://user-images.githubusercontent.com/81317587/206523557-49023504-f72f-4c1c-866b-eb1e5613e5a5.png)
-![Screenshot (46)](https://user-images.githubusercontent.com/81317587/206523662-29e23431-5f82-4a23-9737-366aefb06101.png)
-
+https://youtu.be/BoJIQceioCw
 
 
 ## License
